@@ -61,11 +61,11 @@ def cthulhu_room():
     choice = input("> ")
     
     if "flee" in choice:
-        start()
+        start()  # down the rabbit hole?
     elif "head" in choice:
         dead("Well that was tasty!")
     else:
-        cthulhu_room()
+        cthulhu_room()   #down the rabbit hole?
 
 def dead(why):
     print(why, "Good Job!")
