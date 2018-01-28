@@ -1,0 +1,5 @@
+ID,RoomName,Descrip,N,E,S,W
+100,Cave Entrance,There is a cave entrance to the north.,110,0,0,0
+110,Cave,It's very dark. You can go east or north.,130,120,100,0
+120,East Cave,It's very dark. There's nothing here. You can go back the way you came from the west.,0,0,0,110
+130,Deep Cave,You are deep within the cave. There's a chest here. You can go back to the south.,0,0,110,0
